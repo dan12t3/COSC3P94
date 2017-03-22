@@ -2,7 +2,6 @@ body {
     font-family: 'helvetica';
 }
 
-
 /*-----------------Sections ------------*/
 
 .section1 {
@@ -71,12 +70,50 @@ body {
     background-color: rgb(204, 0, 0);
     border: 1px solid white;
     color: white;
-    height: 15.1vh;
+    height: 15.2vh;
 }
 
 #myCarousel .list-group .active {
     background-color: #3a3a3c;
     color: white;
+}
+
+#myCarousel h4{
+    padding-bottom: 5px;
+    font-size: 14px;
+    border-bottom: 1px solid gray;
+}
+#myCarousel h5{
+    color: white;
+    font-size: 12px;
+}
+
+.news1{
+    background-image: url(../images/news3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 12vh;
+}
+
+.news2{
+    background-image: url(../images/news1.jpg);
+       background-size: cover;
+    background-repeat: no-repeat;
+    height: 12vh;
+}
+
+.news3{
+    background-image: url(../images/news2.jpeg);
+       background-size: cover;
+    background-repeat: no-repeat;
+    height: 12vh;
+}
+
+.news4{
+    background-image: url(../images/news4.jpg);
+       background-size: cover;
+    background-repeat: no-repeat;
+    height: 12vh;
 }
 
 @media (min-width: 992px) {
@@ -193,6 +230,26 @@ body {
 .eventBox h5{
     font-weight: bold;
 }
+
+.date{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+    border-right: 1px solid lightgray;
+}
+.content{
+    font-size: 17px;
+}
+
+.content span{
+    padding: 3px;
+    display: inline-block;
+    margin-top: 5px;
+    color: white;
+    font-size: 11px;
+    background-color: rgb(204,0,0);
+}
+
 /*----------------End section3 css------------*/
 
 /*-----------------GLobal css-----------------*/
@@ -236,6 +293,13 @@ h3 {
 }
 
 .topMargin{
+}
+
+h4 span{
+    font-size: 12px;
+    float: right;
+    cursor: pointer;
+    color: gray;
 }
 
 /*-----------------End GLobal css-----------------*/
