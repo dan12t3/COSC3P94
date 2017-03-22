@@ -1,0 +1,77 @@
+.navbar{
+    border: 0;
+}
+
+.navbar-brand{
+    height: inherit;
+    
+}
+
+.navbrand{
+    height: inherit;
+    width: 7em;
+    background-image:url("../images/brockLogo.png");
+    background-size: cover;
+
+}
+
+
+.navbar-header{
+    height: 5em !important;
+}
+
+.nav li a{
+    font-weight: 500;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: 1.18em;
+    
+  
+}
+
+.nav li a:hover{
+    text-decoration: underline;
+  
+}
+
+
+
+
+#myNavbar, .navbar-toggle{
+    padding-top: 0.7em;
+}
+
+.form-group input{
+    border-radius: 0px;
+}
+
+.navbar-form button, .navbar-form button:hover, .navbar-form button:active, .navbar-form button:visited{
+    border-radius: 0px !important;
+    background-color: rgb(204,0,0);
+    border: 1px solid rgb(204,0,0);
+}
+
+
+.navbar-form button span{
+    color:white;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
