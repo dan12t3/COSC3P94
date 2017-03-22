@@ -5,7 +5,7 @@ body {
 /*-----------------Sections ------------*/
 
 .section1 {
-    margin-top: 8vh;
+    
     padding-left: 0;
     padding-right: 0;
 }
@@ -218,14 +218,25 @@ body {
     list-style: none;
     padding-left: 15px;
 }
-.section3 h4{
+.eventBox h4{
     padding-bottom: 15px;
     font-weight: bold;
-    border-bottom: 2px solid rgb(204,0,0);
+    border-bottom: 2px solid lightgray;
+ 
     
 }
+
+
 .eventBox ul li{
-    padding-top: 5px;
+    border-left: 2px solid rgb(204,0,0);
+    padding-left: 20px;
+
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+.normalDate{
+    border-left: 2px solid green !important;
 }
 .eventBox h5{
     font-weight: bold;
