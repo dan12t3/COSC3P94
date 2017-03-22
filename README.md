@@ -1,4 +1,6 @@
 # COSC3P94
 Brock Website
 
-This is a test. -AF
+URL:	http://cosc.brocku.ca/~af11mb/COSC3P94/index.php
+USR:	tester
+PSW:	homologicus
