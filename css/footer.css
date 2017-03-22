@@ -1,3 +1,60 @@
-footer {
-	height:300px;
+.feedback{
+    margin-top: 5vh;
+    margin-bottom: 3vh;
 }
+
+.feedback button, .feedback button:hover, .feedback button:active, .feedback button:visited{
+    border-radius: 0px !important;
+    background-color: rgb(204,0,0);
+    border: 1px solid rgb(204,0,0);
+    color: white;
+    font-size: 1em;
+    padding: 6px;
+    width: 50px;
+    margin-left: 10px;
+}
+
+
+
+.footer{
+    background-color: rgb(204,0,0) !important;
+}
+
+.footerContent{
+
+    padding-top: 7vh;
+    padding-bottom: 7vh;
+    background-color: inherit;
+    color: white;
+    
+	
+}
+
+.footerContent .address{
+    font-size: 0.95em;
+}
+
+.footerContent .social{
+    font-size: 1.5em;
+    float: right;
+}
+
+.footerContent .social i{
+    padding-right: 10px;
+}
+
+.footerList{
+    padding: 0;
+    list-style-type: none;
+    
+}
+
+.footerList li{
+    display: inline;
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-right: 1px white solid;
+    
+}
+
