@@ -55,14 +55,18 @@
     color:white;
 }
 
+
+
 .navbar .navbar-nav {
   display: inline-block;
   float: none;
   vertical-align: top;
 }
 
-.navbar .navbar-collapse {
+.navbar{
   text-align: center;
+    margin-bottom: 0;
+    background-color: white;
 }
 
 

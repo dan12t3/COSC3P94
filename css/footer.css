@@ -1,7 +1,9 @@
 
 .feedback{
-    margin-top: 5vh;
-    margin-bottom: 3vh;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+    background-color: #3a3a3c;
+    color: white;
 }
 
 .feedback button, .feedback button:hover, .feedback button:active, .feedback button:visited{
@@ -35,12 +37,12 @@
     font-size: 0.95em;
 }
 
-.footerContent .social{
+.footerContent .social1{
     font-size: 1.5em;
     float: right;
 }
 
-.footerContent .social i{
+.footerContent .social1 i{
     padding-right: 10px;
 }
 
