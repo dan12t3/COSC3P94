@@ -142,6 +142,7 @@
 
 }
 
+
 .healthInfo, .mathInfo, .humanitiesInfo, .socialInfo,.educationInfo,.businessInfo{
     display: none;
 }
@@ -152,6 +153,88 @@
 
 .content ul li a{
     color: rgb(204,0,0);
+}
+
+.bookTour{
+    background-color: rgb(204,0,0);
+    padding: 10px;
+    color: white;
+    margin-bottom: 5px;
+    
+    display: inline-block;
+    
+}
+
+.tourMain{
+    font-size: 1.1em;
+}
+
+.tourBody{
+    font-size: 0.9em;
+}
+
+.note{
+    font-size: 0.8em;
+    font-weight: 600;
+}
+
+
+.directionButton{
+    background-color: #3a3a3c;
+    color:white;
+    display: inline-block;
+    padding: 10px;
+}
+
+.res{
+    padding: 0;
+    list-style: none;
+}
+
+.res ul{
+    list-style: none;
+}
+
+
+
+.res ul li{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.res ul li i{
+    color: rgb(204,0,0);
+    padding-right: 10px;
+}
+
+.offCampus{
+    background-color: #3a3a3c;
+}
+
+.resButton{
+    background-color: rgb(204,0,0);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    list-style: none;
+    margin-right: 5px;
+    height: 4em;
+    vertical-align: middle;
+    margin-bottom: 5px;
+
+}
+
+.offCampus{
+    background-color: #3a3a3c;
+}
+
+.squareList{
+    list-style-type: square;
+}
+
+.squareList li{
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 
