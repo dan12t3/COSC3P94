@@ -41,6 +41,7 @@
 #menu{
     padding: 0;
 }
+
 #financial,
 #services,
 #academics {
@@ -50,6 +51,14 @@
     border-bottom: 2px solid rgb(204, 0, 0);
     cursor: pointer;
     margin-bottom: 5px;
+}
+
+#services{
+    border-bottom: 2px solid rgb(157,51,147);
+}
+
+#financial{
+    border-bottom: 2px solid rgb(176,110,14);
 }
 
 .rotate{
