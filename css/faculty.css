@@ -1,0 +1,17 @@
+.produkt-element {
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+   width: 100%;
+}
+
+#all{
+    padding: 7px;
+    margin: 0 !important;
+    text-align: center;
+    background-color: rgb(204,0,0);
+    color: white;
+}
+select{
+    border-radius: 0px !important;
+    
+}

@@ -1,14 +1,38 @@
 .secondNav {
     text-align: left !important;
-    background-color: inherit;
-}
-
-.secondNavBody {
-    padding: 0;
-}
-
-.secondNavBackground {
+    z-index: 9999;
+    border-radius: 0px;
     background-color: rgb(204, 0, 0);
+    
+}
+
+
+.secondNav .navbar-container {
+    text-align: left;
+
+}
+
+ .affix {
+      top: 0;
+      width: 100%;
+  }
+
+  .affix + .container-fluid {
+   
+  }
+
+
+
+
+
+.secondNav .navbar-nav>li>a{
+    
+    color: white;
+    
+}
+
+.secondNav ul li a{
+    color: white;
 }
 
 .apply p{
@@ -19,8 +43,8 @@
     padding-top: 3vh;
     padding-bottom: 3vh;
     text-align: center;
-    border-radius: 5px;
-    
+    border-radius: 0px;
+    cursor: pointer;
     
 }
 
@@ -32,7 +56,8 @@
     padding-top: 3vh;
     padding-bottom: 3vh;
     text-align: center;
-    border-radius: 5px;
+      cursor: pointer;
+    border-radius: 0px;
     
     
 }
@@ -44,7 +69,7 @@
 .eventBox h4 {
     padding-bottom: 15px;
     font-weight: bold;
-    border-bottom: 2px solid rgb(204, 0, 0);
+    border-bottom: 2px solid lightgray;
 }
 
 .eventBox img{
@@ -53,7 +78,7 @@
 
 .faculty {
     margin-bottom: 1vh;
-    
+    cursor: pointer;
     width: 100%;
     word-wrap: break-word;
     white-space: -moz-pre-wrap !important;
@@ -116,3 +141,17 @@
 .content {
 
 }
+
+.healthInfo, .mathInfo, .humanitiesInfo, .socialInfo,.educationInfo,.businessInfo{
+    display: none;
+}
+
+.content ul{
+    list-style: square;
+}
+
+.content ul li a{
+    color: rgb(204,0,0);
+}
+
+
