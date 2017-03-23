@@ -1,0 +1,118 @@
+.secondNav {
+    text-align: left !important;
+    background-color: inherit;
+}
+
+.secondNavBody {
+    padding: 0;
+}
+
+.secondNavBackground {
+    background-color: rgb(204, 0, 0);
+}
+
+.apply p{
+    
+    margin-bottom: 20px;
+    background-color: rgb(204,0,0);
+    color: white;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    text-align: center;
+    border-radius: 5px;
+    
+    
+}
+
+.nextsteps p{
+    
+    margin-bottom: 20px;
+    background-color: #3a3a3c;
+    color: white;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    text-align: center;
+    border-radius: 5px;
+    
+    
+}
+
+.mainBody {
+    margin-top: 5vh;
+}
+
+.eventBox h4 {
+    padding-bottom: 15px;
+    font-weight: bold;
+    border-bottom: 2px solid rgb(204, 0, 0);
+}
+
+.eventBox img{
+    cursor: pointer;
+}
+
+.faculty {
+    margin-bottom: 1vh;
+    
+    width: 100%;
+    word-wrap: break-word;
+    white-space: -moz-pre-wrap !important;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    white-space: pre-wrap;
+    /* css-3 */
+    white-space: -webkit-pre-wrap;
+    /* Newer versions of Chrome/Safari*/
+    white-space: normal;
+    color: white;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.health{
+    
+    color:rgb(0,125,195);
+    border-bottom: 3px rgb(0,125,195) solid;
+    background-color: white;
+}
+
+.education{
+    
+    
+    border-bottom: 3px rgb(152,0,46) solid;
+    background-color: white;
+    color: rgb(152,0,46);
+}
+
+.business{
+    color: rgb(176,110,14);
+    border-bottom: 3px rgb(176,110,14) solid;
+    background-color: white;
+}
+
+.humanities{
+    color: rgb(86,0,78);
+    border-bottom: 3px rgb(86,0,78) solid;
+    background-color: white;
+}
+
+.math{
+    color: rgb(157,51,147);
+    border-bottom: 3px rgb(157,51,147) solid;
+    background-color: white;
+}
+
+.social{
+    color: rgb(52,123,91);
+    border-bottom: 3px rgb(52,123,91) solid;
+    background-color: white;
+}
+
+.content {
+
+}
