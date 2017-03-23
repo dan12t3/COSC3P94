@@ -37,72 +37,75 @@
 
 </div>
 
+
 <div class="container-fluid">
     <div class="row">
-    <img src="images/programs.jpg" width="100%"/>
+    <img src="images/tours.jpg" width="100%"/>
     </div>
 
 
 </div>
 
-
-
 <div class="customContainer">
     <div class="row mainBody">
-        <div class="col-lg-9">
-            <h1>Programs</h1>
-            <div class="col-md-6 col-lg-6 apply">
-                <p>Undergraduate Programs</p>
-            </div>
-            <div class="col-md-6 col-lg-6 nextsteps">
-                <p>Graduate Programs</p>
-            </div>
+        <div class="col-lg-9 content">
+            <h1>Campus Tours</h1>
+            <p class="tourMain"><strong>Discover Brock for yourself!</strong> All tours are led by current Brock students who will show you around our beautiful campus. Brock University is an interdisciplinary campus. Students across all Faculties will study in a variety of locations throughout our campus.</p>
+            <br>
+            
+            <p class="tourBody">You will visit many areas of interest along the way such as classrooms, residences, recreational areas, student meeting spaces, and much more.
+            <br><br>
+                
+                Campus tours are offered Monday to Friday at 10 a.m. or 2 p.m. and will take approximately 1.5 hours. Select weekend campus tour dates are also available and will be listed on the calendar below. For more information about visiting our campus, please contact Jon De Luca at jdeluca@brocku.ca or 905 688 5550 x6658.
+            
+            </p>
+            
+            <p class="tourTime"></p>
+            <br>
+            
+            <div class="bookTour">Book a Group Tour</div>
+            <br>
+            <br>
+            <h3>To register for a tour, select a date and time below.</h3>
+            <img src="images/tourDate.png" width="100%">
+            <br>
+            <br>
+            <h3>Directions and Parking Information</h3>
+            <p class="tourMain">
+            Campus tours take place at Brock University’s primary campus —
+<strong>1812 Sir Isaac Brock Way, St. Catharines, Ontario, L2S 3A1.</strong>
+            </p>
+            <div class="directionButton">Directions to Brock University</div>
+            <br>
+            <br>
+            <p class="note">Please review your email conformation for information about parking, as it may differ from the information below.</p>
+            
+            <p class="tourBody">Once you arrive on campus, follow this map to park in Visitor Parking — Lot D. In the interest of accessibility, there is an area for passenger pick-up and drop-off in front of Welch Hall.</p>
+            <img src="images/parkMap.jpg" width="100%" />
+            
+            
 
-            <hr>
-            <div class="row">
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12"><h4>Get the most of our of Brock</h4></div>
-            </div>
-            
-            <div class="row">
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12"><h5>Co-op Programs</h5>
-                <p>Brock has one of the largest co-op programs in Canada, and boasts a consistent placement rate of nearly 100 per cent. Co-op allows you to explore different career possibilities, discover what interests you, develop key industry contacts, and find the type of career that’s right for you — a huge competitive advantage. Learn More</p>
-                </div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12"><h5>EXPERIENTIAL LEARNING</h5>
-                <p>Your success is important to us. At Brock, you can enrich your academic studies through a series of programs designed to build your skills and showcase your achievements. Specific programs such as Experience Plus, Med Plus and Music Ed Plus will help you to track and record your experiences to give you an edge for your chosen career. Learn More</p>
-                </div>
-            </div>
-            
-            <br>
-            
-            <div class="row">
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12"><h5>Study Abroad</h5>
-                <p>Have you ever wanted to discover another culture while exploring countries on the other side of the world? Or visit the places you have learned about in your classes? You can do all of this and more when participating in an exchange. Spend a semester or a full year studying at a university in a different country.. Learn More</p>
-                </div>
-            </div>
-            <hr/>
-             <div class="row">
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12"><h4>Undergraduate Programs</h4>
-                <p>Have you ever wanted to discover another culture while exploring countries on the other side of the world? Or visit the places you have learned about in your classes? You can do all of this and more when participating in an exchange. Spend a semester or a full year studying at a university in a different country.. Learn More</p>
-                </div>
-            </div>
-            
-            
+              
+
+
+
             
 
 
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 ">
             <div class="row eventBox">
                 
                 <h4>Virtual Tours</h4>
                 <img src="images/VR.png" width ="100%"  />
             </div>
             
+            <div class="row eventBox">
+                
+                <h4>Interested in Arts?</h4>
+                <img src="images/artTour.png" width ="100%"  />
+            </div>
             
-            <br>
             <div class="row eventBox">
                 <h4>Events <span>ALL EVENTS ></span></h4>
                         <div class="row">
@@ -135,6 +138,7 @@
                             </ul>
                         </div>
             </div>
+            
 
 
         </div>

@@ -1,4 +1,0 @@
-AuthName "Welcome Student Evaluator"
-AuthType Basic
-AuthUserFile /home/std/af11mb/public_html/COSC3P94/pswdfile
-Require valid-user

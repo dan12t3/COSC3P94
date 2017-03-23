@@ -118,102 +118,118 @@
 <div class="customContainer">
     <div class="row mainBody">
         <div class="col-lg-9 content">
-            
 
-                <div class="col-md-6 col-lg-6 apply">
-                    <p>I want to apply to Brock?<br>How do I do it?</p>
-                </div>
-                <div class="col-md-6 col-lg-6 nextsteps">
-                    <p>I've already applied to Brock.<br>What are my next steps?</p>
-                </div>
-            
 
-            
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><h4>Learn about our faculties</h4></div>
-            
+            <div class="col-md-6 col-lg-6 apply">
+                <p>I want to apply to Brock?<br>How do I do it?</p>
+            </div>
+            <div class="col-md-6 col-lg-6 nextsteps">
+                <p>I've already applied to Brock.<br>What are my next steps?</p>
+            </div>
+
+
+
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="faculty health">
-                        <i class="fa fa-caret-right" aria-hidden="true"></i>
-                        Faculty of Applied Health Sciences</div>
-                </div>
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class=" faculty education">
-                        <i class="fa fa-caret-right" aria-hidden="true"></i>
-                        Faculty of Education</div>
-                </div>
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class=" faculty business">
-                        <i class="fa fa-caret-right" aria-hidden="true"></i>
-                        Goodman School of Business</div>
-                </div>
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class=" faculty humanities">
-                        <i class="fa fa-caret-right" aria-hidden="true"></i>
-                        Faculty of Humanities</div>
-                </div>
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class=" faculty math">
-                        <i class="fa fa-caret-right" aria-hidden="true"></i>
-                        Faculty of Mathematics and Science</div>
-                </div>
-                <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class=" faculty social">
-                        <i class="fa fa-caret-right" aria-hidden="true"></i>
-                        Faculty of Social Sciences</div>
-                </div>
-         
+                <h3>Student Life at Brock</h3>
+                <p class="tourBody">
+                    Brock has always been a place for well-rounded people to nurture both sides of their brain. Yes, both sides. Not just the academic side of your brain, the one that you take to your classes, but the other side too. The side of the brain that drives your passions outside of the classroom.
+                    <br><br>
+
+At Brock, these diverse passions are not only welcomed but celebrated, and students can become better versions of themselves. We are not numbers; we are individuals encouraged to make our own marks, and develop both sides of our brain.
                 
+                
+                </p>
+                
+                <div class="bookTour">Learn more about Student Life</div>
+                <br>
+                <br>
+
+
+
+
+                <h3>What are you interested in?</h3>
+
+
+
+            </div>
+
+
+            <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="faculty health">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Faculty of Applied Health Sciences</div>
+            </div>
+            <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
+                <div class=" faculty education">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Faculty of Education</div>
+            </div>
+            <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
+                <div class=" faculty business">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Goodman School of Business</div>
+            </div>
+            <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
+                <div class=" faculty humanities">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Faculty of Humanities</div>
+            </div>
+            <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
+                <div class=" faculty math">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Faculty of Mathematics and Science</div>
+            </div>
+            <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
+                <div class=" faculty social">
+                    <i class="fa fa-caret-right" aria-hidden="true"></i> Faculty of Social Sciences</div>
+            </div>
 
 
 
 
 
 
-            
+
+
 
 
         </div>
         <div class="col-lg-3 ">
             <div class="row eventBox">
-                
+
                 <h4>Virtual Tours</h4>
-                <img src="images/VR.png" />
+                <img src="images/VR.png" width="100%" />
             </div>
-            
+
             <div class="row eventBox">
                 <h4>Events <span>ALL EVENTS ></span></h4>
-                        <div class="row">
-                            <ul>
-                                <li>
-                                    <h5>March 1</h5>
-                                    <h5>1:00pm - 2:00pm</h5>
-                                    <p>Brock Campus tour</p>
-                                </li>
-                                <li>
-                                    <h5>March 3</h5>
-                                    <h5>1:00pm - 2:00pm</h5>
-                                    <p>Brock Basketball Club game</p>
-                                </li>
-                                <li>
-                                    <h5>March 7</h5>
-                                    <h5>1:00pm - 2:00pm</h5>
-                                    <p>Brock Band playing</p>
-                                </li>
-                                <li>
-                                    <h5>March 10</h5>
-                                    <h5>1:00pm - 2:00pm</h5>
-                                    <p>Some event X</p>
-                                </li>
-                                <li>
-                                    <h5>March 19</h5>
-                                    <h5>1:00pm - 2:00pm</h5>
-                                    <p>Some event Y</p>
-                                </li>
-                            </ul>
-                        </div>
+                <div class="row">
+                    <ul>
+                        <li>
+                            <h5>March 1</h5>
+                            <h5>1:00pm - 2:00pm</h5>
+                            <p>Brock Campus tour</p>
+                        </li>
+                        <li>
+                            <h5>March 3</h5>
+                            <h5>1:00pm - 2:00pm</h5>
+                            <p>Brock Basketball Club game</p>
+                        </li>
+                        <li>
+                            <h5>March 7</h5>
+                            <h5>1:00pm - 2:00pm</h5>
+                            <p>Brock Band playing</p>
+                        </li>
+                        <li>
+                            <h5>March 10</h5>
+                            <h5>1:00pm - 2:00pm</h5>
+                            <p>Some event X</p>
+                        </li>
+                        <li>
+                            <h5>March 19</h5>
+                            <h5>1:00pm - 2:00pm</h5>
+                            <p>Some event Y</p>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            
+
 
 
         </div>
