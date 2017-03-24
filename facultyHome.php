@@ -1,48 +1,42 @@
 <?php require("header.html"); ?>
 
 
-    <div class="container-fluid secondNavBackground">
-
+    <nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
         <div class="customContainer">
-
-            <nav class="navbar navbar-default secondNav">
-
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#secondNavbar">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                </div>
-                <div class="collapse navbar-collapse secondNavBody" id="secondNavbar">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Main</a></li>
-                        <li><a href="#">Libraries</a></li>
-                        <li><a href="#">Academic integrity</a></li>
-                        <li><a href="#">Programs Listing</a></li>
-
-
-                    </ul>
-                    <ul class="nav navbar-right">
-
-                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                    </ul>
-                </div>
-
-            </nav>
+            
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <div class="collapse navbar-collapse" id="myNavbar2">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                
+                
+                
+                <li><a href="#">James A. Gibson Library</a></li>
+                <li><a href="#">Programs</a></li>
+                
+                
+            </ul>
+            
+            </div>
         </div>
+    </nav>
 
 
-    </div>
 
-    <div class="customContainer facultySection1">
+
+
+    <div class="customContainer facultySection1 mainBody">
         <h1>Academic faculties and departments</h1>
-        <h3>Brock is a comprehensive university with an expansive undergraduate system as well as advanced research, post-graduate and doctoral programs. Students at Brock choose their courses from a rigorous and experiential academic portfolio spanning seven Faculties. Brock also has the fifth-largest university co-op program in Canada, as well as a growing number of international programs.</h3>
+        <p class="tourMain">Brock is a comprehensive university with an expansive undergraduate system as well as advanced research, post-graduate and doctoral programs. Students at Brock choose their courses from a rigorous and experiential academic portfolio spanning seven Faculties. Brock also has the fifth-largest university co-op program in Canada, as well as a growing number of international programs.</p>
 
 
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <h4>Learn about our faculties</h4></div>
+                </div>
 
 
             <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">

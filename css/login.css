@@ -18,6 +18,8 @@
 
 .loginBar{
     background-color: white;
+    
+    
   
 }
 .loginBar .logo{
@@ -28,12 +30,19 @@
     width: 100px;
     
 }
+
+.logo{
+    text-align: center;
+}
 /*
  * Card component
  */
 
 .card {
     background-color: #F7F7F7;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .profile-img-card {

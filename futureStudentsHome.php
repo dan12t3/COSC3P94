@@ -1,119 +1,38 @@
 <?php require("header.html"); ?>
 
 
-    <div class="container-fluid secondNavBackground">
-
+    <nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
         <div class="customContainer">
-
-            <nav class="navbar navbar-default secondNav">
-
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#secondNavbar">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                </div>
-                <div class="collapse navbar-collapse secondNavBody" id="secondNavbar">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">Apply</a></li>
-                        <li><a href="#">Programs</a></li>
-                        <li><a href="#">Campus Tours</a></li>
-                        <li><a href="#">Living at Brock</a></li>
-                        <li><a href="#">Financial Assistance</a></li>
-                        <li><a href="#">Important Dates</a></li>
-
-                    </ul>
-                    <ul class="nav navbar-right">
-
-                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                    </ul>
-                </div>
-
-            </nav>
-        </div>
-
-
-    </div>
-
-
-    <div class="container-fluid section1">
-        <div id="myCarousel" class="carousel slide" data-ride="carousel">
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner ">
-                <div class="item active pic1">
-                </div>
-                <div class="item pic2">
-                </div>
-                <!-- End Item -->
-                <div class="item pic3">
-                </div>
-                <!-- End Item -->
-                <div class="item pic4">
-                </div>
-                <!-- End Item -->
-
-            </div>
-            <!-- End Carousel Inner -->
-
-
-            <ul class="list-group col-sm-3">
-                <li data-target="#myCarousel" data-slide-to="0" class="list-group-item active">
-                    <div class="col-lg-4 news1">
-
-                    </div>
-                    <div class="col-lg-8">
-                        <h4>Brock Snow day</h4>
-                        <h5>March 10 10:30 AM</h5>
-                    </div>
-                </li>
-                <li data-target="#myCarousel" data-slide-to="1" class="list-group-item">
-                    <div class="col-lg-4 news2">
-
-                    </div>
-                    <div class="col-lg-8">
-                        <h4>Brock Wresting wins first place!</h4>
-                        <h5>March 12 8:00 AM</h5>
-                    </div>
-
-                </li>
-                <li data-target="#myCarousel" data-slide-to="2" class="list-group-item">
-                    <div class="col-lg-4 news3">
-
-                    </div>
-                    <div class="col-lg-8">
-                        <h4>Brock Club Getting new members</h4>
-                        <h5>March 14 8:30 AM</h5>
-                    </div>
-                </li>
-                <li data-target="#myCarousel" data-slide-to="3" class="list-group-item">
-
-                    <div class="col-lg-4 news4">
-
-                    </div>
-                    <div class="col-lg-8">
-                        <h4>Rogimonde loses Dota 2 game</h4>
-                        <h5>Everyday 9:00 PM</h5>
-                    </div>
-                </li>
-
-
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <div class="collapse navbar-collapse" id="myNavbar2">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Apply</a></li>
+                <li><a href="#">Programs</a></li>
+                <li><a href="#">Campus Tours</a></li>
+                <li><a href="#">Residences</a></li>
+                <li><a href="#">Awards & Financial Aid</a></li>
+                <li><a href="#">Extracurriculars</a></li>
             </ul>
+            <ul class="nav navbar-right">
 
-            <!-- Controls -->
-            <div class="carousel-controls">
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                </a>
-                <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                </a>
+                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
             </div>
-
         </div>
-        <!-- End Carousel -->
+    </nav>
+
+<div class="container-fluid">
+    <div class="row">
+    <img src="images/studentHome.jpg" width="100%"/>
     </div>
+
+
+</div>
 
     <div class="customContainer">
         <div class="row mainBody">
@@ -132,7 +51,27 @@
 
 
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <h4>Learn about our faculties</h4></div>
+                    <h3>Student Life at Brock</h3>
+                <p class="tourBody">
+                    Brock has always been a place for well-rounded people to nurture both sides of their brain. Yes, both sides. Not just the academic side of your brain, the one that you take to your classes, but the other side too. The side of the brain that drives your passions outside of the classroom.
+                    <br><br>
+
+At Brock, these diverse passions are not only welcomed but celebrated, and students can become better versions of themselves. We are not numbers; we are individuals encouraged to make our own marks, and develop both sides of our brain.
+                
+                
+                </p>
+                
+                <div class="bookTour">Learn more about Student Life</div>
+                <br>
+                <br>
+
+
+
+
+                <h3>What are you interested in?</h3>
+                
+                
+                </div>
 
 
                 <div class="col-lg-12 col-sm-12 col-md-12 col-lg-12">
@@ -270,6 +209,7 @@
                     <h4>Virtual Tours</h4>
                     <img src="images/VR.png" />
                 </div>
+                <br>
 
                 <div class="row eventBox">
                     <h4>Events <span>ALL EVENTS ></span></h4>
