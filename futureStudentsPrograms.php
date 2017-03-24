@@ -38,18 +38,6 @@
 
 
 
-    <div class="customContainer">
-        <div class="row mainBody">
-            <div class="col-lg-9">
-                <h1>Programs at Brock University</h1>
-                <div class="row">
-                    <div class="col-md-6 col-lg-6 apply2">
-                        <p>Undergraduate Programs</p>
-                    </div>
-                    <div class="col-md-6 col-lg-6 nextsteps2">
-                        <p>Graduate Programs</p>
-                    </div>
-                </div>
 
 
 
@@ -367,7 +355,7 @@
                 </div>
 
 
-
+            </div>
 
 
 
