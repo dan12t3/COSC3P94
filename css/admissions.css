@@ -1,0 +1,114 @@
+.activeTab{
+    background-color: #3a3a3c;
+    
+}
+.personaButton2{
+    color: #3a3a3c;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px solid rgb(204,0,0);
+    
+}
+.activeTab2{
+    border-bottom: 5px solid rgb(204,0,0);
+}
+.personaButton2 li{
+   
+}
+
+#nestContent1 ul{
+    list-style: square;
+}
+#nestContent1 ul li{
+    margin-top: 5px;
+    cursor: pointer;
+}
+#nestContent1 ul li a{
+     
+    color: rgb(204,0,0);
+}
+#nestContent1 a{
+    
+    color: rgb(204,0,0);
+}
+
+.tasks{
+    text-transform: uppercase;
+    padding: 10px;
+    color: rgb(204,0,0);
+    background-color: #f2f2f2;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+.tab-content p{
+    padding: 10px;
+}
+
+.tasksStuff ul{
+    list-style: square;
+    
+}
+.tasksStuff ul li{
+    padding: 5px;
+}
+.tasksStuff ul li a{
+    color: rgb(204,0,0);
+ 
+}
+
+.task1Info,.task2Info,.task3Info,.task4Info,.task5Info,.task6Info,.task7Info,.task8Info,.task9Info,.task10Info,.task11Info{
+    display: none;
+}
+
+
+
+.sideMenu ul{
+    list-style: none;
+    padding-left: 20px;   
+}
+.sideMenu ul li{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid #f2f2f2;
+}
+.activeSidebar a{
+    color: rgb(204,0,0) !important;
+}
+
+.sideMenu ul li a{
+    color: #3a3a3c;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.sideMenu h4{
+    margin-top: 23px;
+    padding: 15px;
+    font-size: 15px;
+    background-color: #3a3a3c;
+    color: white;
+    
+}
+
+
+/*-----------------------------Important date css----------------------*/
+
+#dates thead{
+    background-color: #3a3a3c;
+    color: white;
+}
+#dates tbody tr{
+    
+    
+}
+
+.viewButton{
+    padding: 15px;
+    background-color: rgb(204,0,0);
+    color: white;
+    display: inline-block;
+}
+
+
+
