@@ -11,16 +11,17 @@
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
                 <li ><a href="futureStudentsHome.php">Home</a></li>
-                <li><a href="#">Apply</a></li>
-                <li class="active"><a href="#">Programs</a></li>
-                <li><a href="#">Campus Tours</a></li>
-                <li><a href="#">Residences</a></li>
-                <li><a href="#">Awards & Financial Aid</a></li>
-                <li><a href="#">Extracurriculars</a></li>
+                <li><a href="admissions.php">Apply</a></li>
+                <li class="active"><a href="futureStudentsPrograms.php">Programs</a></li>
+                <li><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
+                <li><a href="futureStudentsFinance.php">Awards & Financial Aid</a></li>
+                <li><a href="futureStudentsExtra.php">Extracurriculars</a></li>
+                <li><a href="importantDates.php">Important Dates</a></li>
             </ul>
             <ul class="nav navbar-right">
 
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="futureStudentsLogin.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
             </div>
         </div>
@@ -41,10 +42,10 @@
         <div class="col-lg-9">
             <h1>Programs at Brock University</h1>
             <div class="col-md-6 col-lg-6 apply2">
-                <p>Undergraduate Programs</p>
+                <a href="#undergraduatePrograms"><p>Undergraduate Programs</p></a>
             </div>
             <div class="col-md-6 col-lg-6 nextsteps2">
-                <p>Graduate Programs</p>
+                <a href="https://brocku.ca/nextstep/programs/"><p>Graduate Programs</p></a>
             </div>
 
             
@@ -58,22 +59,22 @@
             
             <h4>Co-op Programs</h4>
             <p class="tourBody">Brock has one of the largest co-op programs in Canada, and boasts a consistent placement rate of nearly 100 per cent. Co-op allows you to explore different career possibilities, discover what interests you, develop key industry contacts, and find the type of career that’s right for you — a huge competitive advantage. Learn More</p>
-            <div class="bookTour">Learn more about Co-op</div>
+            <a href="https://brocku.ca/co-op"><div class="bookTour">Learn more about Co-op</div></a>
             <br>
             <br>
             
             <h4>Experiential Learning</h4>
             <p class="tourBody">Your success is important to us. At Brock, you can enrich your academic studies through a series of programs designed to build your skills and showcase your achievements. Specific programs such as Experience Plus, Med Plus and Music Ed Plus will help you to track and record your experiences to give you an edge for your chosen career. Learn More</p>
-            <div class="bookTour">Learn more about Experiential Learning</div>
+            <a href="https://brocku.ca/career-services/students-alumni"><div class="bookTour">Learn more about Experiential Learning</div></a>
             <br>
             <br>
             
             <h4>Study Abroad</h4>
             <p class="tourBody">Have you ever wanted to discover another culture while exploring countries on the other side of the world? Or visit the places you have learned about in your classes? You can do all of this and more when participating in an exchange. Spend a semester or a full year studying at a university in a different country.</p>
-            <div class="bookTour">Learn more about Studying Abroad</div>
+            <a href="https://brocku.ca/international-services/exchanges-study-abroad"><div class="bookTour">Learn more about Studying Abroad</div></a>
             <br>
             <br>
-            <h3>Undergraduate Programs</h3>
+            <h3 id="undergraduatePrograms">Undergraduate Programs</h3>
             
             <p class="tourMain">As a comprehensive university, Brock has an expansive selection of undergraduate programs as well as advanced research, post-graduate and doctoral options.</p>
             

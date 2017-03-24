@@ -1,20 +1,48 @@
 <?php include("header.html"); ?>
 
     
+<nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
+        <div class="customContainer">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <div class="collapse navbar-collapse" id="myNavbar2">
+        
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li><a href="futureStudentsHome.php">Students</a></li>
+                <li><a href="facultyHome.php">Staff</a></li>
+                <li><a href="futureStudentsTours.php">Visitors</a></li>
+                
+
+                
+            </ul>
+            </div>
+        </div>
+    </nav>
+
+
 <div class="container-fluid section1">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Wrapper for slides -->
             <div class="carousel-inner ">
                 <div class="item active pic1">
-                </div>
-                <div class="item pic2">
-                </div>
-                <!-- End Item -->
-                <div class="item pic3">
-                </div>
-                <!-- End Item -->
-                <div class="item pic4">
-                </div>
+                <div class="resTag">Brock 50th Anniversary<br><span>Celeberate with us!</span></div>
+            </div>
+            <div class="item pic2">
+                <div class="resTag">Ted Talk<br><span>Brock University Alumni</span></div>
+            </div>
+            <!-- End Item -->
+            
+            <!-- End Item -->
+            <div class="item pic3">
+                <div class="resTag">Marilyn I. Walker School of Fine and Performing Arts<br><span></span></div>
+            </div>
+            <div class="item pic4">
+                <div class="resTag">Goodman School of Business<br><span>DECA Champions</span></div>
+            </div>
                 <!-- End Item -->
 
             </div>
@@ -77,79 +105,11 @@
         </div>
         <!-- End Carousel -->
     </div>
-    <br/>
-    <div class="customContainer section2">
-        <h2>I am a...</h2>
 
-        <ul class="nav nav-tabs">
 
-            <a class="personaButton col-lg-3 col-sm-12">
-                <li data-toggle="tab" href="#menu1">STUDENT</li>
-            </a>
-            <a class="personaButton col-lg-3 col-sm-12">
-                <li data-toggle="tab" href="#menu2">FACULTY</li>
-            </a>
-            <a class="personaButton col-lg-3 col-sm-12">
-                <li data-toggle="tab" href="#menu3">STAFF</li>
-            </a>
-            <a class="personaButton col-lg-3 col-sm-12">
-                <li data-toggle="tab" href="#menu4">VISITOR</li>
-            </a>
-        </ul>
-        <br />
-        <div class="tab-content">
 
-            <div id="menu1" class="tab-pane fade in active">
 
-                <a href="/#" class="col-lg-4 col-sm-12 attachedImage1"></a>
-                <a href="/#" class="col-lg-4 col-sm-12 attachedImage2"></a>
-                <a href="/#" class="col-lg-4 col-sm-12 attachedImage3"></a>
 
-                <div class="col-lg-12">
-                    <a href="/#" class="button red"> Go to Students Pathway</a>
-                    <br/>
-                    <br/>
-                    <br/>
-                </div>
-
-                <p class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae placerat enim. Aliquam nec mollis metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean interdum est non orci ultrices suscipit. Suspendisse sit ametursus enim. Nulla tellus ex, rutrum quis sem sit amet, facilisis sodales risus. Nullam consectetur eget libero at semper. Sed tincidunt nisi justo, posuere efficitur metus e </p>
-            </div>
-            <div id="menu2" class="tab-pane fade">
-
-                <a href="/#" class="col-lg-4 attachedImage1"></a>
-                <a href="/#" class="col-lg-4 attachedImage2"></a>
-                <a href="/#" class="col-lg-4 attachedImage3"></a>
-
-                <div class="col-lg-12">
-                    <a href="/#" class="button red"> Go to Students Pathway</a>
-                </div>
-
-            </div>
-            <div id="menu3" class="tab-pane fade">
-
-                <a href="/#" class="col-lg-4 attachedImage1"></a>
-                <a href="/#" class="col-lg-4 attachedImage2"></a>
-                <a href="/#" class="col-lg-4 attachedImage3"></a>
-
-                <div class="col-lg-12">
-                    <a href="/#" class="button red"> Go to Students Pathway</a>
-                </div>
-
-            </div>
-            <div id="menu4" class="tab-pane fade">
-
-                <a href="/#" class="col-lg-4 attachedImage1"></a>
-                <a href="/#" class="col-lg-4 attachedImage2"></a>
-                <a href="/#" class="col-lg-4 attachedImage3"></a>
-
-                <div class="col-lg-12">
-                    <a href="/#" class="button red"> Go to Students Pathway</a>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <br/>
     <br/>
     <!------- persona portal ----------->
 

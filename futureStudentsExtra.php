@@ -3,7 +3,6 @@
 
 <nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
         <div class="customContainer">
-            
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -11,17 +10,18 @@
                 </button>
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
-                <li ><a href="#">Home</a></li>
-                <li><a href="#">Apply</a></li>
-                <li><a href="#">Programs</a></li>
-                <li><a href="#">Campus Tours</a></li>
-                <li><a href="#">Residences</a></li>
-                <li ><a href="#">Awards & Financial Aid</a></li>
-                <li class="active"><a href="#">Extracurriculars</a></li>
+                <li ><a href="futureStudentsHome.php">Home</a></li>
+                <li><a href="admissions.php">Apply</a></li>
+                <li><a href="futureStudentsPrograms.php">Programs</a></li>
+                <li><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
+                <li><a href="futureStudentsFinance.php">Awards & Financial Aid</a></li>
+                <li class="active"><a href="futureStudentsExtra.php">Extracurriculars</a></li>
+                <li><a href="importantDates.php">Important Dates</a></li>
             </ul>
             <ul class="nav navbar-right">
 
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="futureStudentsLogin.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
             </div>
         </div>
@@ -47,20 +47,20 @@
             <h3>Athletics and Intramurals</h3>
             
             <p class="tourBody">Few institutions in Canada can compare to the high level of athletic achievement of Brock University. With 33 national championships and 67 provincial championships, the Brock Badgers ended their 45th season with several new titles to add to their growing list.</p>
-            <div class="bookTour">Visit GoBadgers.ca for more information</div>
+            <a href="http://www.gobadgers.ca/"><div class="bookTour">Visit GoBadgers.ca for more information</div></a>
             
             <br>
             <br>
             
             <p class="tourBody">Want to be active at Brock, but you’re not a star athlete? More than 7,000 students take part in our intramural programs — from soccer and flag football to inner tube water polo and underwater hockey.</p>
-            <div class="bookTour">Visit Recreation Services</div>
+            <a href="https://brocku.ca/recreation-services"><div class="bookTour">Visit Recreation Services</div></a>
             <br>
             <br>
             
             
             <h3>Student Involvement & Clubs</h3>
             <p class="tourBody">Finishing a Specialist High Skills Major program? Graduates entering Brock with an admission average of 80 per cent or higher will automatically be awarded a <strong>$500 scholarship.</strong></p>
-            <div class="bookTour">Visit Clubs Directory</div>
+            <a href="http://www.brockbusu.ca/involvement/clubs/directory/"><div class="bookTour">Visit Clubs Directory</div></a>
             <br>
             <br>
             
@@ -71,7 +71,7 @@
             They enhance student development and success through innovative programs, services and partnerships. They help to create a community that is accessible to all, one where diversity is celebrated and good citizenship is valued. Brock offers an enriched, safe, inclusive environment where you become part of a vibrant community.
             
             </p>
-            <div class="bookTour">Learn more about Student Services</div>
+            <a href="https://brocku.ca/student-services"><div class="bookTour">Learn more about Student Services</div></a>
             <br>
             <br>
             
@@ -85,7 +85,7 @@
                 <li>Want to get some experience working in an office? We even hire students to help out in Student Awards and Financial Aid.</li>
             
             </ul>
-            <div class="bookTour">Visit Career Services</div>
+            <a href="https://brocku.ca/career-services/students-alumni/find-job/career-services/students-alumni/job-search/campus-jobs"><div class="bookTour">Visit Career Services</div></a>
         
             
             

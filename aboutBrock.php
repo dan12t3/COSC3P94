@@ -12,11 +12,11 @@
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
                 
-                <li ><a href="#">Brock Facts</a></li>
-                <li ><a href="#">Campus Tours</a></li>
-                <li><a href="#">Residences</a></li>
+                <li ><a href="aboutBrockFacts.php">Brock Facts</a></li>
+                <li ><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
                 
-                <li><a href="#">Extracurriculars</a></li>
+                <li><a href="futureStudentsExtra.php">Extracurriculars</a></li>
             </ul>
             
             </div>
@@ -63,7 +63,7 @@
             <hr>
             
             <div class="startApp">
-            <div class="bookTour centre">Start Your Application</div>
+            <a href="admissions.php"><div class="bookTour centre">Start Your Application</div></a>
             </div>
             
           

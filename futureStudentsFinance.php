@@ -9,17 +9,18 @@
                 </button>
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
-                <li ><a href="#">Home</a></li>
-                <li><a href="#">Apply</a></li>
-                <li><a href="#">Programs</a></li>
-                <li><a href="#">Campus Tours</a></li>
-                <li><a href="#">Residences</a></li>
-                <li class="active"><a href="#">Awards & Financial Aid</a></li>
-                <li><a href="#">Extracurriculars</a></li>
+                <li ><a href="futureStudentsHome.php">Home</a></li>
+                <li><a href="admissions.php">Apply</a></li>
+                <li><a href="futureStudentsPrograms.php">Programs</a></li>
+                <li><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
+                <li class="active"><a href="futureStudentsFinance.php">Awards & Financial Aid</a></li>
+                <li ><a href="futureStudentsExtra.php">Extracurriculars</a></li>
+                <li><a href="importantDates.php">Important Dates</a></li>
             </ul>
             <ul class="nav navbar-right">
 
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="futureStudentsLogin.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
             </div>
         </div>
@@ -62,7 +63,7 @@
             <p class="tourBody">Brock offers numerous awards, scholarships and bursaries.
 You can apply to the vast majority of these awards through the Brock University OneApp.</p>
             
-            <div class="bookTour">Apply for student awards and bursaries</div>
+            <a href="https://discover.brocku.ca/awards/apply"><div class="bookTour">Apply for student awards and bursaries</div></a>
             <br>
             <br>
             <h3>Financial Aid & Budgeting</h3>
@@ -73,8 +74,8 @@ You can apply to the vast majority of these awards through the Brock University 
             The Ministry of Training, Colleges and Universities has announced a new tuition grant program known as, the 30% Off Ontario Tuition Grant. 
             
             </p>
-            <div class="bookTour">Visit the OSAP website</div>
-            <div class="offCampus bookTour">Learn more about the 30% off tuition grant</div>
+            <a href="https://www.ontario.ca/page/osap-ontario-student-assistance-program"><div class="bookTour">Visit the OSAP website</div></a>
+            <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR013075.html"><div class="offCampus bookTour">Learn more about the 30% off tuition grant</div></a>
             <br><br>
             <h4>Student Access Guarantee</h4>
             <p class="tourBody">Brock University is pleased to participate in the Student Access Guarantee with the Province of Ontario. If you are applying to a first-entry program directly from high school, you will automatically be considered for the Student Access Guarantee aid based on your OSAP application. If you qualify, the ministry will notify us of how much aid they need to give you.
@@ -94,7 +95,7 @@ You can apply to the vast majority of these awards through the Brock University 
                 <li>Want to get some experience working in an office? We even hire students to help out in Student Awards and Financial Aid.</li>
             
             </ul>
-            <div class="bookTour">Visit Career Services</div>
+            <a href="https://brocku.ca/career-services/students-alumni/find-job/career-services/students-alumni/job-search/campus-jobs"><div class="bookTour">Visit Career Services</div></a>
             
             
             

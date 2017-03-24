@@ -10,17 +10,18 @@
                 </button>
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Apply</a></li>
-                <li><a href="#">Programs</a></li>
-                <li><a href="#">Campus Tours</a></li>
-                <li><a href="#">Residences</a></li>
-                <li><a href="#">Awards & Financial Aid</a></li>
-                <li><a href="#">Extracurriculars</a></li>
+                <li class="active"><a href="futureStudentsHome.php">Home</a></li>
+                <li><a href="admissions.php">Apply</a></li>
+                <li><a href="futureStudentsPrograms.php">Programs</a></li>
+                <li><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
+                <li><a href="futureStudentsFinance.php">Awards & Financial Aid</a></li>
+                <li><a href="futureStudentsExtra.php">Extracurriculars</a></li>
+                <li><a href="importantDates.php">Important Dates</a></li>
             </ul>
             <ul class="nav navbar-right">
 
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="futureStudentsLogin.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
             </div>
         </div>
@@ -40,12 +41,12 @@
 
 
                 <div class="col-md-6 col-lg-6 apply">
-                    <p>I want to apply to Brock?
-                        <br>How do I do it?</p>
+                    <a href="admissions.php"><p>I want to apply to Brock?
+                        <br>How do I do it?</p></a>
                 </div>
                 <div class="col-md-6 col-lg-6 nextsteps">
-                    <p>I've already applied to Brock.
-                        <br>What are my next steps?</p>
+                    <a href="https://discover.brocku.ca/apply/next-steps/"><p>I've already applied to Brock.
+                        <br>What are my next steps?</p></a>
                 </div>
 
 
@@ -61,7 +62,7 @@ At Brock, these diverse passions are not only welcomed but celebrated, and stude
                 
                 </p>
                 
-                <div class="bookTour">Learn more about Student Life</div>
+                <a href="https://brocku.ca/student-life/"><div class="bookTour">Learn more about Student Life</div></a>
                 <br>
                 <br>
 

@@ -1,20 +1,28 @@
 <?php require("header.html"); ?>
 
-    <nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
+ <nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
         <div class="customContainer">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
-                <li class=""><a href="#">Home</a></li>
-                <li><a href="#">Apply</a></li>
-                <li><a href="#">Programs</a></li>
-                <li><a href="#">Campus Tours</a></li>
-                <li><a href="#">Living at Brock</a></li>
-                <li><a href="#">Financial Assistance</a></li>
-                <li><a href="#">Important Dates</a></li>
+                <li ><a href="futureStudentsHome.php">Home</a></li>
+                <li><a href="admissions.php">Apply</a></li>
+                <li><a href="futureStudentsPrograms.php">Programs</a></li>
+                <li><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
+                <li><a href="futureStudentsFinance.php">Awards & Financial Aid</a></li>
+                <li><a href="futureStudentsExtra.php">Extracurriculars</a></li>
+                <li class="active"><a href="importantDates.php">Important Dates</a></li>
             </ul>
             <ul class="nav navbar-right">
 
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="futureStudentsLogin.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
+            </div>
         </div>
     </nav>
 
@@ -25,7 +33,7 @@
             <div class="col-lg-3 sideMenu">
                 <h4>IN THIS SECTION</h4>
                 <ul>
-                    <li><a>Important Dates</a></li>
+                    <li><a href="importantDates.php">Important Dates</a></li>
                     <li class="activeSidebar"><a><i class="fa fa-chevron-right" aria-hidden="true"></i> Examination schedule</a></li>
                     <li><a>undergraduate studies</a></li>
                     

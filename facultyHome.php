@@ -15,8 +15,8 @@
                 
                 
                 
-                <li><a href="#">James A. Gibson Library</a></li>
-                <li><a href="#">Programs</a></li>
+                <li><a href="https://brocku.ca/library">James A. Gibson Library</a></li>
+                <li><a href="futureStudentsPrograms.php">Programs</a></li>
                 
                 
             </ul>
