@@ -1,46 +1,36 @@
 <?php require("header.html"); ?>
 
+<nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
+        <div class="customContainer">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <div class="collapse navbar-collapse" id="myNavbar2">
+            <ul class="nav navbar-nav">
+                <li ><a href="#">Home</a></li>
+                <li><a href="#">Apply</a></li>
+                <li><a href="#">Programs</a></li>
+                <li><a href="#">Campus Tours</a></li>
+                <li><a href="#">Residences</a></li>
+                <li class="active"><a href="#">Awards & Financial Aid</a></li>
+                <li><a href="#">Extracurriculars</a></li>
+            </ul>
+            <ul class="nav navbar-right">
 
-<div class="container-fluid secondNavBackground">
-
-    <div class="customContainer">
-
-        <nav class="navbar navbar-default secondNav">
-
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#secondNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span> 
-      </button>
+                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
             </div>
-            <div class="collapse navbar-collapse secondNavBody" id="secondNavbar">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">Apply</a></li>
-                    <li><a href="#">Programs</a></li>
-                    <li><a href="#">Campus Tours</a></li>
-                    <li><a href="#">Living at Brock</a></li>
-                    <li><a href="#">Financial Assistance</a></li>
-                    <li><a href="#">Important Dates</a></li>
+        </div>
+    </nav>
 
-                </ul>
-                <ul class="nav navbar-right">
 
-                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                </ul>
-            </div>
-
-        </nav>
+<div class="container-fluid">
+    <div class="row">
+    <img src="images/finance.jpg" width="100%"/>
     </div>
 
-
-</div>
-
-
-<div class="customContainer">
-
-<img src="images/finance.jpg" / width="100%">
 
 </div>
 
@@ -91,6 +81,20 @@ You can apply to the vast majority of these awards through the Brock University 
             <br>
             Before applying for awards, you must apply for admission to the university. Go to the Ontario Universities Application Centre to apply for admission.
             </p>
+            
+            <br>
+            
+            <h3>Jobs on Campus</h3>
+            <p class="tourBody">Many students work part-time while going to school. It’s a great way to gain experience while paying for your education. There are a ton of opportunities on campus specifically for students.</p>
+            <ul class="squareList tourBody">
+            <li>Want to get some teaching experience? You could apply to be a teaching assistant for one of the many seminars offered at Brock.</li>
+                <li>Interested in physiotherapy? You can be a personal trainer for one of Brock’s varsity sports teams.
+</li>
+                <li>Are you a people person? You might make a great tour guide in Recruitment and Liaison Services.</li>
+                <li>Want to get some experience working in an office? We even hire students to help out in Student Awards and Financial Aid.</li>
+            
+            </ul>
+            <div class="bookTour">Visit Career Services</div>
             
             
             

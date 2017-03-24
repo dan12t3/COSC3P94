@@ -1,57 +1,52 @@
 <?php require("header.html"); ?>
 
 
-<div class="container-fluid secondNavBackground">
+<nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
+        <div class="customContainer">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <div class="collapse navbar-collapse" id="myNavbar2">
+            <ul class="nav navbar-nav">
+                <li ><a href="#">Home</a></li>
+                <li><a href="#">Apply</a></li>
+                <li><a href="#">Programs</a></li>
+                <li><a href="#">Campus Tours</a></li>
+                <li class="active"><a href="#">Residences</a></li>
+                <li ><a href="#">Awards & Financial Aid</a></li>
+                <li><a href="#">Extracurriculars</a></li>
+            </ul>
+            <ul class="nav navbar-right">
 
-    <div class="customContainer">
-
-        <nav class="navbar navbar-default secondNav">
-
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#secondNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span> 
-      </button>
+                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
             </div>
-            <div class="collapse navbar-collapse secondNavBody" id="secondNavbar">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">Apply</a></li>
-                    <li><a href="#">Programs</a></li>
-                    <li><a href="#">Campus Tours</a></li>
-                    <li><a href="#">Living at Brock</a></li>
-                    <li><a href="#">Financial Assistance</a></li>
-                    <li><a href="#">Important Dates</a></li>
-
-                </ul>
-                <ul class="nav navbar-right">
-
-                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                </ul>
-            </div>
-
-        </nav>
-    </div>
-
-
-</div>
+        </div>
+    </nav>
 
 
 <div class="container-fluid section1">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Wrapper for slides -->
         <div class="carousel-inner ">
-            <div class="item active pic1">
+            <div class="item active living1a">
+                <div class="resTag">DeCew Residence<br><span>Traditional</span></div>
             </div>
-            <div class="item pic2">
+            <div class="item living2a">
+                <div class="resTag">Earp Residence<br><span>Semi-Suite</span></div>
             </div>
             <!-- End Item -->
-            <div class="item pic3">
-            </div>
+            
             <!-- End Item -->
-            <div class="item pic4">
+            <div class="item living3a">
+                <div class="resTag">Village Residence<br><span>Townhouse</span></div>
             </div>
+            <div class="item living4a">
+                <div class="resTag">Quarry View Residence<br><span>Townhouse</span></div>
+            </div>
+  
             <!-- End Item -->
 
         </div>
@@ -60,41 +55,44 @@
 
         <ul class="list-group col-sm-3">
             <li data-target="#myCarousel" data-slide-to="0" class="list-group-item active">
-                <div class="col-lg-4 news1">
+                <div class="col-lg-4 living1">
 
                 </div>
                 <div class="col-lg-8">
-                    <h4>Brock Snow day</h4>
-                    <h5>March 10 10:30 AM</h5>
+                    <h4>DeCew Residence</h4>
+                    <h5>Traditional Style</h5>
                 </div>
             </li>
             <li data-target="#myCarousel" data-slide-to="1" class="list-group-item">
-                <div class="col-lg-4 news2">
+                <div class="col-lg-4 living2">
 
                 </div>
                 <div class="col-lg-8">
-                    <h4>Brock Wresting wins first place!</h4>
-                    <h5>March 12 8:00 AM</h5>
+                    <h4>Earp Residence</h4>
+                    <h5>Semi-Suite Style</h5>
                 </div>
 
             </li>
+
             <li data-target="#myCarousel" data-slide-to="2" class="list-group-item">
-                <div class="col-lg-4 news3">
+
+                <div class="col-lg-4 living3">
 
                 </div>
                 <div class="col-lg-8">
-                    <h4>Brock Club Getting new members</h4>
-                    <h5>March 14 8:30 AM</h5>
+                    <h4>Village Residence</h4>
+                    <h5>Townhouse Style</h5>
                 </div>
             </li>
+            
             <li data-target="#myCarousel" data-slide-to="3" class="list-group-item">
 
-                <div class="col-lg-4 news4">
+                <div class="col-lg-4 living4">
 
                 </div>
                 <div class="col-lg-8">
-                    <h4>Rogimonde loses Dota 2 game</h4>
-                    <h5>Everyday 9:00 PM</h5>
+                    <h4>Quarry View</h4>
+                    <h5>Townhouse Style</h5>
                 </div>
             </li>
 
@@ -194,7 +192,7 @@
             <hr>
             <div class=tourBody>
             <h4>Residence At Brock Is Guaranteed To:</h4>
-            <ul>
+            <ul class="squareList">
                 <li>Incoming Year One full-time students coming from high school</li>
                 <li>Incoming Year One full-time students whose primary residence is outside of Ontario.</li>
             
@@ -203,7 +201,7 @@
             <p>In both cases this guarantee applies only if Brock receives both your residence application and fee by our <strong>deadline of June 1, 2017.</strong></p>
             
             <p>Brock also guarantees residence to students transferring from another post-secondary institution, who meet the following conditions:</p>
-            <ul>
+            <ul class="squareList">
                 <li>Accept their offer of admission no later than June 1, 2017</li>
                 <li>Were granted less than 5.0 transfer credits as determined by Brock University by June 1, </li>
                 <li>We receive the residence application and fee no later than June 1, 2017</li>
