@@ -10,17 +10,18 @@
                 </button>
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
-                <li ><a href="#">Home</a></li>
-                <li><a href="#">Apply</a></li>
-                <li><a href="#">Programs</a></li>
-                <li class="active"><a href="#">Campus Tours</a></li>
-                <li><a href="#">Residences</a></li>
-                <li><a href="#">Awards & Financial Aid</a></li>
-                <li><a href="#">Extracurriculars</a></li>
+                <li ><a href="futureStudentsHome.php">Home</a></li>
+                <li><a href="admissions.php">Apply</a></li>
+                <li><a href="futureStudentsPrograms.php">Programs</a></li>
+                <li class="active"><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
+                <li><a href="futureStudentsFinance.php">Awards & Financial Aid</a></li>
+                <li><a href="futureStudentsExtra.php">Extracurriculars</a></li>
+                <li><a href="importantDates.php">Important Dates</a></li>
             </ul>
             <ul class="nav navbar-right">
 
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="futureStudentsLogin.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
             </div>
         </div>
@@ -52,7 +53,7 @@
             
             <br>
             
-            <div class="bookTour">Book a Group Tour</div>
+            <a href="https://discover.brocku.ca/tours/groups"><div class="bookTour">Book a Group Tour</div></a>
             <br>
             <br>
             <h3>To register for a tour, select a date and time below.</h3>
@@ -67,7 +68,7 @@
             Campus tours take place at Brock University’s primary campus —
 <strong>1812 Sir Isaac Brock Way, St. Catharines, Ontario, L2S 3A1.</strong>
             </p>
-            <div class="directionButton">Directions to Brock University</div>
+            <a href="https://www.google.ca/maps/place/Brock+University/@43.1175731,-79.2476925,15z/"><div class="directionButton">Directions to Brock University</div></a>
             <br>
             <br>
             <p class="note">Please review your email conformation for information about parking, as it may differ from the information below.</p>

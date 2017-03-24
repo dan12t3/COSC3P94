@@ -1,6 +1,5 @@
 <?php require("header.html"); ?>
 
-
 <nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
         <div class="customContainer">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
@@ -10,13 +9,13 @@
                 </button>
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
-                <li ><a href="#">Home</a></li>
+                <li ><a href="aboutBrock.php">Home</a></li>
                 
-                <li class="active"><a href="#">Brock Facts</a></li>
-                <li ><a href="#">Campus Tours</a></li>
-                <li><a href="#">Residences</a></li>
+                <li class="active"><a href="aboutBrockFacts.php">Brock Facts</a></li>
+                <li ><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li><a href="futureStudentsLiving.php">Residences</a></li>
                 
-                <li><a href="#">Extracurriculars</a></li>
+                <li><a href="futureStudentsExtra.php">Extracurriculars</a></li>
             </ul>
             
             </div>

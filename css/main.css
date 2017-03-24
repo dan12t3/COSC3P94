@@ -35,28 +35,28 @@ h3{
 /*----------Section1 css--------------*/
 
 .pic1 {
-    background-image: url(../images/brock1.png);
+    background-image: url(../images/main1.jpg);
     height: 60vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .pic2 {
-    background-image: url(../images/brock2.png);
+    background-image: url(../images/main2.jpg);
     height: 60vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .pic3 {
-    background-image: url(../images/brock3.png);
+    background-image: url(../images/main3.jpg);
     height: 60vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .pic4 {
-    background-image: url(../images/brock1.png);
+    background-image: url(../images/main4.jpg);
     height: 60vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -116,28 +116,28 @@ h3{
 }
 
 .news1{
-    background-image: url(../images/news3.jpg);
+    background-image: url(../images/main1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 12vh;
 }
 
 .news2{
-    background-image: url(../images/news1.jpg);
+    background-image: url(../images/main2.jpg);
        background-size: cover;
     background-repeat: no-repeat;
     height: 12vh;
 }
 
 .news3{
-    background-image: url(../images/news2.jpeg);
+    background-image: url(../images/main3.jpg);
        background-size: cover;
     background-repeat: no-repeat;
     height: 12vh;
 }
 
 .news4{
-    background-image: url(../images/news4.jpg);
+    background-image: url(../images/main4.jpg);
        background-size: cover;
     background-repeat: no-repeat;
     height: 12vh;

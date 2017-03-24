@@ -10,17 +10,18 @@
                 </button>
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
-                <li ><a href="#">Home</a></li>
-                <li><a href="#">Apply</a></li>
-                <li><a href="#">Programs</a></li>
-                <li><a href="#">Campus Tours</a></li>
-                <li class="active"><a href="#">Residences</a></li>
-                <li ><a href="#">Awards & Financial Aid</a></li>
-                <li><a href="#">Extracurriculars</a></li>
+                <li ><a href="futureStudentsHome.php">Home</a></li>
+                <li><a href="admissions.php">Apply</a></li>
+                <li><a href="futureStudentsPrograms.php">Programs</a></li>
+                <li><a href="futureStudentsTours.php">Campus Tours</a></li>
+                <li class="active"><a href="futureStudentsLiving.php">Residences</a></li>
+                <li><a href="futureStudentsFinance.php">Awards & Financial Aid</a></li>
+                <li><a href="futureStudentsExtra.php">Extracurriculars</a></li>
+                <li><a href="importantDates.php">Important Dates</a></li>
             </ul>
             <ul class="nav navbar-right">
 
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                <li><a href="futureStudentsLogin.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
             </ul>
             </div>
         </div>
@@ -123,10 +124,11 @@
             <p class="tourBody">The residence system at Brock has been recognized as being one of the best in Canada. Your “home away from home”, residence at Brock will provide you with the opportunity to live in outstanding modern facilities, meet new friends, and become a vital part of the Brock community. Living in residence is an experience like no other, and will provide you with memories that last a lifetime.</p>
             <br>
             <h4>There Are Three Styles Of Residence At Brock University</h4>
+            <p class="tourMain">Have a Look Inside!</p>
             <ul class="res tourBody">
                 <li><strong>Traditional style</strong> residences have single and double occupancy rooms. Students will purchase a meal plan.
                     <ul>
-                        <li class=""><i class="fa fa-caret-right" aria-hidden="true"></i> DeCew </li>
+                        <li class=""><a href="http://www.youvisit.com/tour/panoramas/brock/91298?module=panoramas&id=46306&pl=v"><i class="fa fa-caret-right" aria-hidden="true"></i> DeCew </a></li>
                         
                     </ul>
                 
@@ -134,9 +136,9 @@
                 </li>
                 <li><strong>Semi-suite style</strong> residences have single and double occupancy rooms. Students will purchase a meal plan.
                     <ul>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i>Earp </li>
-                        <li> <i class="fa fa-caret-right" aria-hidden="true"></i>Lowenberger</li>
-                        <li> <i class="fa fa-caret-right" aria-hidden="true"></i>Valee</li>
+                        <li><a href="http://www.youvisit.com/tour/panoramas/brock/91298?module=panoramas&id=46308&pl=v"><i class="fa fa-caret-right" aria-hidden="true"></i>Earp </a></li>
+                        <li><a href="http://www.youvisit.com/tour/panoramas/brock/91298?module=panoramas&id=46314&pl=v"> <i class="fa fa-caret-right" aria-hidden="true"></i>Lowenberger</a></li>
+                        <li> <a href="http://www.youvisit.com/tour/panoramas/brock/91298?module=panoramas&id=46307&pl=v"><i class="fa fa-caret-right" aria-hidden="true"></i>Valee</a></li>
                     </ul>
                 
                 
@@ -144,8 +146,8 @@
                 
                 <li><strong>Townhouse style </strong> residences offer the convenience of living on-campus with a more independent lifestyle. Students have the option of cooking their own meals, or purchasing an optional meal plan.
                     <ul>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i>Village </li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i>Quarry View </li>
+                        <li><a href="http://www.youvisit.com/tour/panoramas/brock/91298?module=panoramas&id=46315&pl=v"><i class="fa fa-caret-right" aria-hidden="true"></i>Village </a></li>
+                        <li><a href="http://www.youvisit.com/tour/panoramas/brock/91298?module=panoramas&id=46318&pl=v"><i class="fa fa-caret-right" aria-hidden="true"></i>Quarry View </a></li>
                     </ul>
                 
                 
@@ -162,13 +164,13 @@
                 
                 <div class="col-lg-9">
                     <div class="resButton col-lg-3 col-sm-12">
-                <li data-toggle="tab" href="#menu1">Residence Fees</li>
+                <a href="https://brocku.ca/residence/residence-admissions/faqs#How_do_I_pay_the__600_deposit_"><li>Residence Fees</li></a>
             </div>
             <div class="resButton col-lg-3 col-sm-12">
-                <li data-toggle="tab" href="#menu2">Dining Services</li>
+                <a href="https://brocku.ca/foodservices/index.php"><li>Dining Services</li></a>
             </div>
             <div class="resButton col-lg-3 col-sm-12">
-                <li data-toggle="tab" href="#menu3">Department of Residence</li>
+                <a href="https://brocku.ca/residence/"><li >Department of Residence</li></a>
             </div>
 
                 
@@ -178,7 +180,7 @@
                 <div class="col-lg-3">
                     <div class="row">
                     <div class="col-lg-12">
-                    <div class="offCampus resButton" >Off-Campus Living</div>
+                    <a href="https://brocku.ca/ocl/"><div class="offCampus resButton" >Off-Campus Living</div></a>
                     </div>
                     </div>
                 </div>
