@@ -80,16 +80,16 @@
                 <div class="row">
                             <ul>
                                 <li>
-                                    <h5>Office 365 WebMail</h5>
+                                    <a href="https://adfs.brocku.ca/adfs/ls/?wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=bk%3D1406747354%26LoginOptions%3D3"><h5>Office 365 WebMail</h5></a>
                                     
                                 </li>
                                 <li>
-                                    <h5>Sakai</h5>
+                                    <a href="https://lms.brocku.ca/portal/"><h5>Sakai</h5></a>
                                     
                                 </li>
                                 
                                 <li>
-                                    <h5>CareerZone</h5>
+                                    <a href="https://careerzone.brocku.ca/home.htm"><h5>CareerZone</h5></a>
                                     
                                 </li>
                                 
@@ -107,16 +107,16 @@
                 <div class="row">
                             <ul>
                                 <li>
-                                    <h5>Applicant, New, Returning Student or Alumni</h5>
+                                    <a href="https://my.brocku.ca/Portal/StudentActivation.aspx"><h5>Applicant, New, Returning Student or Alumni</h5></a>
                                     
                                 </li>
                                 <li>
-                                    <h5>Faculty or Staff</h5>
+                                    <a href="https://my.brocku.ca/Portal/EmployeeActivation.aspx"><h5>Faculty or Staff</h5></a>
                                     
                                 </li>
                                 
                                 <li>
-                                    <h5>Continuing Education - Request new password.</h5>
+                                    <a href="https://my.brocku.ca/Portal/ContinuingEdActivation.aspx"><h5>Continuing Education - Request new password.</h5></a>
                                     
                                 </li>
                                 
@@ -134,16 +134,16 @@
                 <div class="row">
                             <ul>
                                 <li>
-                                    <h5>Account activation</h5>
+                                    <a href="https://my.brocku.ca/Portal/FileDownload/Account_Activation.pdf"><h5>Account activation</h5></a>
                                     
                                 </li>
                                 <li>
-                                    <h5>Password reset</h5>
+                                    <a href="https://my.brocku.ca/Portal/FileDownload/Reset_Password.pdf"><h5>Password reset</h5></a>
                                     
                                 </li>
                                 
                                 <li>
-                                    <h5>Frequently asked questions</h5>
+                                    <a href="https://my.brocku.ca/Portal/FAQ.aspx"><h5>Frequently asked questions</h5></a>
                                     
                                 </li>
                                 
@@ -151,10 +151,7 @@
                         </div>
                 
             </div>
-            
-            
-            
-            
+
 
 
         </div>

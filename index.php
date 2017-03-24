@@ -13,7 +13,7 @@
             <ul class="nav navbar-nav navbar-right">
                 
                 <li><a href="futureStudentsHome.php">Students</a></li>
-                <li><a href="facultyHome.php">Staff</a></li>
+                <li><a href="staff.php">Staff</a></li>
                 <li><a href="futureStudentsTours.php">Visitors</a></li>
                 
 
@@ -56,8 +56,8 @@
 
                     </div>
                     <div class="col-lg-8">
-                        <h4>Brock Snow day</h4>
-                        <h5>March 10 10:30 AM</h5>
+                        <h4>Brock 50th Anniversary</h4>
+                        <h5>Celeberate with us!</h5>
                     </div>
                 </li>
                 <li data-target="#myCarousel" data-slide-to="1" class="list-group-item">
@@ -65,8 +65,8 @@
 
                     </div>
                     <div class="col-lg-8">
-                        <h4>Brock Wresting wins first place!</h4>
-                        <h5>March 12 8:00 AM</h5>
+                        <h4>Ted Talk</h4>
+                        <h5>Brock University Alumni</h5>
                     </div>
 
                 </li>
@@ -75,8 +75,8 @@
 
                     </div>
                     <div class="col-lg-8">
-                        <h4>Brock Club Getting new members</h4>
-                        <h5>March 14 8:30 AM</h5>
+                        <h4>Marilyn I. Walker School of Fine and Performing Arts</h4>
+                        <h5>Take a tour</h5>
                     </div>
                 </li>
                 <li data-target="#myCarousel" data-slide-to="3" class="list-group-item">
@@ -85,8 +85,8 @@
 
                     </div>
                     <div class="col-lg-8">
-                        <h4>Rogimonde loses Dota 2 game</h4>
-                        <h5>Everyday 9:00 PM</h5>
+                        <h4>Goodman School of Business</h4>
+                        <h5>DECA Champions</h5>
                     </div>
                 </li>
 
