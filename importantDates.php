@@ -19,7 +19,9 @@
         </div>
     </nav>
 
-    <div class="customContainer">
+    <div class="customContainer title3P">
+        <br/>
+                <br/>
         <div class="row">
             <div class="col-lg-3 sideMenu">
                 <h4>IN THIS SECTION</h4>
@@ -44,7 +46,9 @@
             </div>
             <div class="col-lg-9">
                 <h1>Important Dates</h1>
-                <p>Find all important date information for all sessions and programs at Brock University.</p>
+                
+                <br/>
+                <p class = "title2P">Find all important date information for all sessions and programs at Brock University.</p>
                 <hr/>
 
                 <div class="table-responsive">

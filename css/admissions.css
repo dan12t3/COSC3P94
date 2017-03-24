@@ -90,7 +90,16 @@
     color: white;
     
 }
+.titleP{
+    font-size: 1.5em;
+}
 
+.title2P{
+    font-size: 1.3em;
+}
+
+.title3P{
+}
 
 /*-----------------------------Important date css----------------------*/
 
@@ -105,6 +114,8 @@
 
 .viewButton{
     padding: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
     background-color: rgb(204,0,0);
     color: white;
     display: inline-block;

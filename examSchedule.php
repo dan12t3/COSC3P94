@@ -21,6 +21,8 @@
 
 
     <div class="customContainer">
+        <br/>
+        <br/>
         <div class="row">
             <div class="col-lg-3 sideMenu">
                 <h4>IN THIS SECTION</h4>
@@ -49,7 +51,7 @@
                 <hr/>
 
                 <div class="table-responsive">
-                    <table id="dates" class="table table-striped">
+                    <table id="dates" class="table">
                         <thead>
                             <tr>
                                 <th>Winter 2017</th>
@@ -73,7 +75,7 @@
                     </table>
                 </div>
                 <div class="table-responsive">
-                    <table id="dates" class="table table-striped">
+                    <table id="dates" class="table">
                         <thead>
                             <tr>
                                 <th>Summer 2017</th>
@@ -93,7 +95,7 @@
                     </table>
                 </div>
                 <div class="table-responsive">
-                    <table id="dates" class="table table-striped">
+                    <table id="dates" class="table">
                         <thead>
                             <tr>
                                 <th>Fall 2017</th>
@@ -114,8 +116,9 @@
                     </table>
                 </div>
                 
-                <h4>Examination Schedule by Subject</h4>
-                <p>Looking for a complete listing of exams by course?</p>
+                <h4 class = "titleP">Examination Schedule by Subject</h4>
+                <p class = "title2P">Looking for a complete listing of exams by course?</p>
+                <br/>
                 <div class = "viewButton">View All <i class="fa fa-chevron-right" aria-hidden="true"></i>
                 </div>
             </div>

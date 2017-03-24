@@ -80,22 +80,35 @@ h3{
 
 #myCarousel .list-group-item {
     border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid #f2f2f2;
     cursor: pointer;
-    background-color: rgb(204, 0, 0);
-    border: 1px solid white;
-    color: white;
+    background-color:white;
+    color: #3a3a3c !important;
     height: 15.2vh;
 }
 
+#myCarousel .list-group-item h5{
+    color: #3a3a3c;
+}
+
 #myCarousel .list-group .active {
-    background-color: #3a3a3c;
+    background-color: rgb(204,0,0);
+    color: white
+}
+
+#myCarousel .list-group .active h5{
+     color: white !important;
+}
+#myCarousel .list-group .active h4{
     color: white;
 }
 
 #myCarousel h4{
     padding-bottom: 5px;
     font-size: 14px;
-    border-bottom: 1px solid gray;
+    color: #3a3a3c;
+    border-bottom: 1px solid #f2f2f2;
 }
 #myCarousel h5{
     color: white;

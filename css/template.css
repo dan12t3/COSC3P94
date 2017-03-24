@@ -23,8 +23,6 @@
 
 
 
-
-
 .secondNav .navbar-nav>li>a{
     
     color: white;
@@ -210,7 +208,10 @@
     background-color: #3a3a3c;
     color:white;
     display: inline-block;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .res{
@@ -279,7 +280,7 @@
     
 }
 
-.active a{
+.secondNav .active a{
     background-color: rgb(150,0,0) !important;
     color: white !important;
 }

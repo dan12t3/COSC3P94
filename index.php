@@ -1,7 +1,7 @@
 <?php include("header.html"); ?>
 
-    
-<div class="container-fluid section1">
+
+    <div class="container-fluid section1">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Wrapper for slides -->
             <div class="carousel-inner ">
@@ -122,8 +122,12 @@
 
                 <div class="col-lg-12">
                     <a href="/#" class="button red"> Go to Students Pathway</a>
+                       <br/>
+                    <br/>
+                    <br/>
                 </div>
 
+                <p class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae placerat enim. Aliquam nec mollis metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean interdum est non orci ultrices suscipit. Suspendisse sit ametursus enim. Nulla tellus ex, rutrum quis sem sit amet, facilisis sodales risus. Nullam consectetur eget libero at semper. Sed tincidunt nisi justo, posuere efficitur metus e </p>
             </div>
             <div id="menu3" class="tab-pane fade">
 
@@ -133,8 +137,12 @@
 
                 <div class="col-lg-12">
                     <a href="/#" class="button red"> Go to Students Pathway</a>
+                       <br/>
+                    <br/>
+                    <br/>
                 </div>
 
+                <p class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae placerat enim. Aliquam nec mollis metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean interdum est non orci ultrices suscipit. Suspendisse sit ametursus enim. Nulla tellus ex, rutrum quis sem sit amet, facilisis sodales risus. Nullam consectetur eget libero at semper. Sed tincidunt nisi justo, posuere efficitur metus e </p>
             </div>
             <div id="menu4" class="tab-pane fade">
 
@@ -144,8 +152,12 @@
 
                 <div class="col-lg-12">
                     <a href="/#" class="button red"> Go to Students Pathway</a>
+                       <br/>
+                    <br/>
+                    <br/>
                 </div>
 
+                <p class="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae placerat enim. Aliquam nec mollis metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean interdum est non orci ultrices suscipit. Suspendisse sit ametursus enim. Nulla tellus ex, rutrum quis sem sit amet, facilisis sodales risus. Nullam consectetur eget libero at semper. Sed tincidunt nisi justo, posuere efficitur metus e </p>
             </div>
         </div>
     </div>
@@ -264,5 +276,4 @@
     </div>
 
 
-<?php include("footer.html"); ?>
-
+    <?php include("footer.html"); ?>

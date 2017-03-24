@@ -20,8 +20,11 @@
         </div>
     </nav>
 
-    <div class="customContainer">
-
+    <div class="customContainer title3P">
+        
+                <br/>
+        
+                <br/>
         <div class="row">
             <div class="col-lg-3 sideMenu">
                 <h4>IN THIS SECTION</h4>
@@ -34,8 +37,12 @@
             
             </div>
             <div class="col-lg-9">
+                
                 <h1>How and When to Apply to Brock University</h1>
-                <p>Ready to apply for admission to Brock? Use the four steps below to apply for the program that’s right for you.</p>
+                
+                <br/>
+        
+                <p class ="titleP">Ready to apply for admission to Brock? Use the four steps below to apply for the program that’s right for you.</p>
 
                 <ul id="men1" class="nav nav-tabs">
 
@@ -56,7 +63,7 @@
                 <div class="tab-content">
 
                     <div id="menu1" class="tab-pane fade in active">
-                        <p>Determine the type of applicant you are, as well as your admission requirements.</p>
+                        <p class="title2P">Determine the type of applicant you are, as well as your admission requirements.</p>
 
                         <ul id="nestMenu11" class="nav nav-tabs">
 
@@ -119,7 +126,7 @@
                         </div>
                     </div>
                     <div id="menu2" class="tab-pane fade in">
-                        <p>If applying using a Brock internal application, be sure to carefully read the following information beforehand. Similar information can be found on the OUAC application.</p>
+                        <p class="title2P">If applying using a Brock internal application, be sure to carefully read the following information beforehand. Similar information can be found on the OUAC application.</p>
 
                         <div class="row">
                             <div class="tasksStuff col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -350,7 +357,7 @@
 
                     </div>
                     <div id="menu3" class="tab-pane fade in">
-                        <p>Find the application applicable to you. Application is completed via Ontario Universities Application Centre (OUAC) or using an internal Brock application.</p>
+                        <p class="title2P">Find the application applicable to you. Application is completed via Ontario Universities Application Centre (OUAC) or using an internal Brock application.</p>
 
                         <table class="table">
                             <thead>
@@ -404,7 +411,7 @@
                         </table>
                     </div>
                     <div id="menu4" class="tab-pane fade in">
-                        <p>Connect with Admissions if you have questions or concerns about your application.</p>
+                        <p class="title2P">Connect with Admissions if you have questions or concerns about your application.</p>
 
                     </div>
                 </div>
