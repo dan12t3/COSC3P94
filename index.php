@@ -10,9 +10,10 @@
                 </button>
             <div class="collapse navbar-collapse" id="myNavbar2">
         
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav navbar-left ">
                 
-                <li><a href="futureStudentsHome.php">Students</a></li>
+                <li><a href="futureStudentsHome.php">Future Students</a></li>
+                <li><a href="futureStudentsLogin.php">Current Students</a></li>
                 <li><a href="staff.php">Staff</a></li>
                 <li><a href="futureStudentsTours.php">Visitors</a></li>
                 

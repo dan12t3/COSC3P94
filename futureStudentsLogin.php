@@ -11,7 +11,7 @@
             <div class="collapse navbar-collapse" id="myNavbar2">
 
             <ul class="nav navbar-nav">
-                <li class="active"><a href="futureStudentsHome.php">Home</a></li>
+                <li ><a href="futureStudentsHome.php">Home</a></li>
                 <li><a href="admissions.php">Apply</a></li>
                 <li><a href="futureStudentsPrograms.php">Programs</a></li>
                 <li><a href="futureStudentsTours.php">Campus Tours</a></li>
