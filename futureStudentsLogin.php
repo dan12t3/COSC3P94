@@ -63,6 +63,7 @@
                                     <input type="checkbox" value="remember-me"> Remember me
                                 </label>
                             </div>
+
                             <a href="studentPortal.php">
                                 <button class="btn btn-lg btn-primary btn-block btn-signin">Sign in</button>
                             </a>
