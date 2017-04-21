@@ -3,11 +3,17 @@
 
 <nav class="navbar navbar-default secondNav" data-spy="affix" data-offset-top="75">
         <div class="customContainer">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar2">
+           <div class="navbar-header">
+                <button type="button" class="navbar-toggle " data-toggle="collapse" data-target="#myNavbar2">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+                <a href="index.php" class="navbar-brand">
+                    <div class="navbrand2"></div>
+                </a>
+
+            </div>
             <div class="collapse navbar-collapse" id="myNavbar2">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>

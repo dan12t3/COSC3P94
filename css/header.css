@@ -1,79 +1,108 @@
-.navbar{
+.navbar {
     border: 0;
 }
 
-.navbar-brand{
+.navbar-brand {
     height: inherit;
-    
 }
 
-.navbrand{
+.navbrand {
     height: inherit;
     width: 7em;
-    background-image:url("../images/brockLogo.png");
+    background-image: url("../images/brockLogo.png");
     background-size: cover;
-
 }
 
+.navbrand2 {
+    height: inherit;
+    margin-top: -10px !important;
+    width: 7em;
+    background-image: url("../images/brockLogo.png");
+    background-size: cover;
+}
 
-.navbar-header{
+.navbar-header {
     height: 5em !important;
 }
 
-.nav li a{
-    
-  
-}
+.nav li a {}
 
-.nav li a:hover{
+.nav li a:hover {
     text-decoration: underline;
-  
 }
 
-
-
-
-#myNavbar, .navbar-toggle{
+#myNavbar,
+.navbar-toggle {
     padding-top: 0.7em;
 }
 
-.form-group input{
+.form-group input {
     border-radius: 0px;
 }
 
-.navbar-form button, .navbar-form button:hover, .navbar-form button:active, .navbar-form button:visited{
+.navbar-form button,
+.navbar-form button:hover,
+.navbar-form button:active,
+.navbar-form button:visited {
     border-radius: 0px !important;
-    background-color: rgb(204,0,0);
-    border: 1px solid rgb(204,0,0);
+    background-color: rgb(204, 0, 0);
+    border: 1px solid rgb(204, 0, 0);
 }
 
-
-.navbar-form button span{
-    color:white;
+.navbar-form button span {
+    color: white;
 }
-
-
 
 .navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
+    display: inline-block;
+    float: none;
+    vertical-align: top;
 }
 
-.navbar{
-  text-align: center;
+.icon-bar {
+    background-color: white !important;
+}
+
+.navbar {
+    text-align: center;
     margin-bottom: 0;
     background-color: white;
 }
 
+.secondNav .navbar-brand {
+    height: 0px;
+}
+
+.secondNav .navbar-header {
+    height: 0px !important;
+}
 
 
+/* Landscape phones and portrait tablets */
+
+@media (max-width: 767px) {
+    .secondNav {
+        position: fixed;
+        width: 100%;
+    }
+    .tempNav {
+        background-color: rgb(204, 0, 0);
+    }
+    .mainNav {
+        display: none;
+    }
+    .secondNav .navbar-brand {
+        height: 65px;
+    }
+    .secondNav .navbar-header {
+        height: 65px !important;
+    }
+    .mainBody {
+        margin-top: 0vh !important;
+    }
+}
 
 
+/* Portrait phones and smaller */
 
-
-
-
-
-
-
+@media (max-width: 480px) {}

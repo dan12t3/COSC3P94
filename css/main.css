@@ -321,7 +321,10 @@ a:hover{
     background-color: rgb(204, 0, 0);
 }
 
-
+.secondNav a:hover{
+    color: white !important;
+    background-color: rgb(150,0,0) !important;
+}
 .navbar {
     margin-top: 0;
     padding: 0 0;
