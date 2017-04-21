@@ -4,13 +4,17 @@
     
     <nav class="navbar navbar-default secondNav">
 
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#secondNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span> 
-      </button>
-    </div>
+   <div class="navbar-header">
+                <button type="button" class="navbar-toggle " data-toggle="collapse" data-target="#myNavbar2">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="index.php" class="navbar-brand">
+                    <div class="navbrand2"></div>
+                </a>
+
+            </div>
     <div class="collapse navbar-collapse secondNavBody" id="secondNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
